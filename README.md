@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 My Social Links:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Jk5smNj5c/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hrithiksilawat?igsh=MWY0MGhlNWRzbjlmbg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hrithik-silawat-076a25232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrithiksilawat@gmaill.com) 
 
 # 💻 Tech Stack:
