@@ -58,23 +58,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrithik220&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithik220&theme=cobalt&hide_border=false" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik220&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=hrithik220&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrithik220&theme=cobalt&hide_border=false" alt="GitHub Streak"/>
 
 </div>
 
