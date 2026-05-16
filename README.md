@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05d9e8,30:ff2a6d,60:7b2fff,100:005678&height=200&section=header&text=Hrithik%20Silawat&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20ML%20Explorer%20%7C%20Software%20Engineer&descAlignY=58&descSize=16&descColor=05d9e8&stroke=ff2a6d&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:4a3f6b,70:7b6fa0,100:b8a9d9&height=200&section=header&text=Hrithik%20Silawat&fontSize=46&fontColor=ede9f6&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20ML%20Explorer%20%7C%20Software%20Engineer&descAlignY=58&descSize=15&descColor=c9bfee" width="100%"/>
 
 <!-- Animated typing intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%26+ML+Enthusiast+%F0%9F%A4%96;React+%2B+Next.js+Builder+%E2%9A%9B%EF%B8%8F;Software+Engineer+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=20&pause=1000&color=9B8EC4&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%26+ML+Enthusiast+%F0%9F%A4%96;React+%2B+Next.js+Builder+%E2%9A%9B%EF%B8%8F;Software+Engineer+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -64,7 +64,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💡 Quote 
+## 💡 Dev Quote of the Day
 
 <div align="center">
 
@@ -78,6 +78,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=hrithik220&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8a9d9,60:4a3f6b,100:1a1a2e&height=120&section=footer" width="100%"/>
 
 </div>
